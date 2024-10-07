@@ -563,11 +563,14 @@ header{
         position: absolute;
         display: inline-block;
         text-align: center;
-        margin: 0px auto;
+        margin: 2px;
         z-index: 999;
         width: 140px;
         left: 0;
         right: 0
+    }
+    .logo-img img {
+        height: 45px;
     }
 }
 
