@@ -1006,16 +1006,16 @@ header{
 }
 
 .slider-area .single-slider .slider-content p {
-    color: #77d4fc;
-    font-size: 14px;
-    font-weight: 400;
+    color: #3dc5ff;
+    font-size: 18px;
+    font-weight: bold;
     margin-bottom: 16px
 }
 
 .slider-area .single-slider .slider-content h3 {
     font-family: "Helvetica", sans-serif;
     font-weight: 500;
-    font-size: 26px;
+    font-size: 15px;
     color: #ffffff;
     line-height: 31px;
     margin-bottom: 28px
@@ -1298,6 +1298,7 @@ header{
     background-image: linear-gradient(to left, rgb(4 8 35), rgb(0 0 0));
 }
 
+
 .project-area .project-active .single-project .project-info span {
     color: #1067CC;
     font-family: "Helvetica", sans-serif;
@@ -1306,6 +1307,9 @@ header{
     margin-bottom: 13px;
     margin-top: 35px;
     font-size: 16px
+}
+.project-area .project-active .single-project .project-info{
+    text-align: center;
 }
 .single-project .project-thumb{
         border-radius: 31px;
